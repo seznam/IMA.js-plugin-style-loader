@@ -1,5 +1,7 @@
 # ima-plugin-style-loader
 
+## Package was moved to [plugins monorepo](https://github.com/seznam/IMA.js-plugins).
+
 This is the plugin for loading 3rd party styles for the IMA.js application.
 You can find the IMA.js skeleton application at <https://github.com/seznam/IMA.js-skeleton>
 or follow link <https://imajs.io>.
